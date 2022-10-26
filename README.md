@@ -1,9 +1,9 @@
 # Quote-Generator-JSON
 
-## Create local JSON data
+### Create local JSON data
 
-## Fetch JSON data
+### Fetch JSON data
 
-## Use HTML and CSS starter code
+### Use HTML and CSS starter code
 
-## DOM manipulation to show JSON data on html page
+### DOM manipulation to show JSON data on html page
