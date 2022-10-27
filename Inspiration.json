@@ -1,31 +1,37 @@
 [{
-    "English": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand",
-    "citation": "Martin Fowler",
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand",
+    "author": "Steve Jobs",
+    "citation": "Facebook",
+    "year": 2015
+},
+{
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "Elon Musk",
+    "citation": "Twitter",
+    "year": 2012
+},
+{
+    "quote": "Java is to JavaScript what car is to Carpet.",
+    "author": "Lex Fridman",
+    "citation": "Reddit",
+    "year": 2011
+},
+{
+    "quote": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+    "author": "Steve Wozniack",
+    "citation": "youtube",
+    "year": 2122
+},
+{
+    "quote": "Optimism is an occupational hazard of programming: feedback is the treatment",
+    "author": "Ivan Piceno",
+    "citation": "Facebook",
     "year": 2022
 },
 {
-    "English": "First, solve the problem. Then, write the code.",
-    "citation": "John Johnson",
-    "year": 2022
-},
-{
-    "English": "Java is to JavaScript what car is to Carpet.",
-    "citation": "Chris Heilmann",
-    "year": 2022
-},
-{
-    "English": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
-    "citation": " Antoine de Saint-Exupery",
-    "year": 2022
-},
-{
-    "English": "Optimism is an occupational hazard of programming: feedback is the treatment",
-    "citation": "Kent Beck",
-    "year": 2022
-},
-{
-    "English": "Simplicity is the soul of efficiency",
-    "citation": "Austin Freeman",
-    "year": 2022
+    "quote": "Simplicity is the soul of efficiency",
+    "author": "Jack Black",
+    "citation": "Google",
+    "year": 2023
 }
 ]
